@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Lucas Qu</h1>
-<h3 align="center">A passionate game developer from China.</h3>
+<h3 align="center">A passionate game developer from China 🎮.</h3>
 
 - 🔭 I’m currently working on [Slime Knight](https://farcaptain.wixsite.com/lucas-qu/copy-of-a-penguin-story)
 
@@ -12,6 +12,8 @@
 - 📫 How to reach me **lucaschyu@outlook.com**
 
 - 😄 Pronouns: **He/Him/His**
+
+- 👾 I do game jams: https://sphinx7.itch.io/
 
 
 <h3 align="left">Languages and Tools:</h3>

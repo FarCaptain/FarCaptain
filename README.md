@@ -7,7 +7,7 @@
 
 - 📝 I sometimes write articles on [https://farcaptain.wixsite.com/sphinx](https://farcaptain.wixsite.com/sphinx)
 
-- 💬 Ask me about **Game Development, C++, Shaders**
+- 💬 Ask me about **Game Development, C++**
 
 - 📫 How to reach me **lucaschyu@outlook.com**
 
